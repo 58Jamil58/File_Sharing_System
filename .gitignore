@@ -1,45 +1,28 @@
-# Python virtual environments
-venv/
-env/
-.venv/
-ENV/
-.python-version
+# Python bytecode and cache
+*.py[cod]
+__pycache__/
+*.so
 
-# Django static and media files
+# Django-related
+db.sqlite3
+*.sqlite3
+/media/
 staticfiles/
-static/
-media/
 
-# Django migration files (optional, usually kept in VCS)
-# **/*.pyc
+# Virtual environments
+env/
+venv/
+ENV/
 
-# Coverage reports
-htmlcov/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-
-# Test output
-test-results/
-
-# MyPy
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Pytest
-.pytest_cache/
-
-# Logs
+# Logs and local settings
 *.log
+*.pot
+local_settings.py
 
-# IDE files
-.idea/
+# VS Code and editor files
+.vscode/
+*.swp
 
-# OS files
-*.DS_Store
+# OS-generated files
+.DS_Store
 Thumbs.db
