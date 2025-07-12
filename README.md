@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was done by me as a assignment for an internship.
 
 <h2>Assignment Problem Statement:</h2>
@@ -60,4 +61,6 @@ This project was done by me as a assignment for an internship.
 <img src="Screenshots/New Tab - Google Chrome  19_16_14.png" height="400" width="800">
 <img src="Screenshots/Django WebApp - Google Chrome  13_41_50.png" height="400" width="800">
 <img src="Screenshots/Django WebApp - Google Chrome  20_48_45.png" height="400" width="800">
+=======
+>>>>>>> 1a48b5920a971cf590e6e3d8c460de6eed801641
 
