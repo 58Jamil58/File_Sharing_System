@@ -1,0 +1,45 @@
+# Python virtual environments
+venv/
+env/
+.venv/
+ENV/
+.python-version
+
+# Django static and media files
+staticfiles/
+static/
+media/
+
+# Django migration files (optional, usually kept in VCS)
+# **/*.pyc
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Test output
+test-results/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.pytest_cache/
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+
+# OS files
+*.DS_Store
+Thumbs.db
