@@ -55,10 +55,8 @@ This project was done by me as a assignment for an internship.
 
 
 # Screenshots : 
-<img src="Screenshots/New Tab - Google Chrome  19_14_36.png" height="400" width="800">
 <img src="Screenshots/New Tab - Google Chrome  19_14_51.png" height="400" width="800">
 <img src="Screenshots/New Tab - Google Chrome  19_14_44.png" height="400" width="800">
-<img src="Screenshots/New Tab - Google Chrome  19_15_47.png" height="400" width="800">
 <img src="Screenshots/New Tab - Google Chrome  19_16_14.png" height="400" width="800">
 <img src="Screenshots/Django WebApp - Google Chrome  13_41_50.png" height="400" width="800">
 <img src="Screenshots/Django WebApp - Google Chrome  20_48_45.png" height="400" width="800">
